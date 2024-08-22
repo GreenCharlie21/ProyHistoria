@@ -1,0 +1,24 @@
+*{
+    margin: 80px;
+}
+body{
+    background-color: rgb(212, 255, 0);
+}
+h1{
+    color: coral;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2{
+    color: aqua;
+}
+
+img{
+    width: 200;
+    height: 180;
+}
+
+p{
+    color: blueviolet;
+    background-color: azure;
+}
